@@ -1,4 +1,4 @@
-name: Deploy Pygame to Web
+name: Deploy Pygame to Web 
 
 on:
   push:
